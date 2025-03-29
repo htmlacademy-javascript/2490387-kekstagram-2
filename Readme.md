@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Александр Сосердоцкий](https://up.htmlacademy.ru/javascript-individual/2/user/2490387).
-* Наставник: `Неизвестно`.
+* Наставник: [Виктория Никитина](https://up.htmlacademy.ru/javascript-individual/2/user/2490387).
 
 ---
 
